@@ -14,4 +14,8 @@ This is a not-for-profit project solely aimed at playing a small part in this hu
 
 To learn more about Folding@Home project, please visit [here](https://foldingathome.org/covid19/) .
 
+
 Namaste (yeah, no handsakes).
+
+Planned architecture:
+![](assets/architecture.png)
